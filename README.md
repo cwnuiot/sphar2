@@ -1,4 +1,4 @@
-# sphar2
+# CWNU-RDA
 CWNU-RDA
 1. Introduction to the laboratory
 
