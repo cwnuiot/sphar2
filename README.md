@@ -34,15 +34,4 @@ Example:
                 0015 1667635970702292 -65.0625 -64.0 3.06182565261974 4
 4. Types of activities
 
-label	activity names	activity descriptions	label	activity names	activity descriptions
-0	standing	Stand up straight	11	mark time with Swing arms	Swing your arms and march in place
-1	Standing to crouching	Stand up straight at the beginning of the collection, squat at 3s, and crouch continuously thereafter	12	mark time without Swing arms	Walk in place without swinging arms
-2	crouching	Crouching motionless	13	sit down	Stand up straight at the beginning of the collection, sit down at the third second, and then sit still
-3	Crouching to standing	Start the collection by crouching, stand up for 3s, and then stand still	14	sitting	Sit still
-4	Standing to stooping	Start the collection standing, bend over for the third second, then stay stooping	15	sitting to stooping	Sit up straight at the beginning of the collection, stoop down at the third second, and then remain seated and stooping
-5	Standing and stooping	Stand and stoop still	16	sitting and stooping	Remain seated and stooping
-6	stooping to standing	Stooping at the beginning of the collection, stand up straight for 3s, then stay upright	17	stooping to sitting	Sit and bend at the beginning of collection, sit upright at the third second, and then sit still
-7	stride with swinging arms	Swing your arms in big strides	18	sitting to standing	Sit at the beginning of the acquisition, stand up at the third second, and then stay upright
-8	steps with swing arms	Take small steps and swing your arms	19	lying	Lying motionless
-9	stride without swinging arms	Take strides without swinging your arms	20	lying to sitting	Lying at the beginning of the collection, sit up at the third second, and then sit up straight
-10	steps without swing arms	Take small steps without waving your arms	-	-	-
+![image](https://user-images.githubusercontent.com/127716457/224982894-33c50572-c752-4a6e-83d1-4da3ac473847.png)
